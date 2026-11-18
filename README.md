@@ -1,6 +1,6 @@
 # One Day, The Whole World — Wednesday 18 November 2026
 
-[![Competition](https://make.fun/badge/news-image-20261118/competition.svg)](https://make.fun/bounty/news-image-20261118)
+[![Competition](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
 [![Rank](https://make.fun/badge/news-image-20261118/candaraz/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
 [![Reward](https://make.fun/badge/news-image-20261118/candaraz/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
 
