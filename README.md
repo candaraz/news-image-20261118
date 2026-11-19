@@ -25,11 +25,11 @@ all of which happened or were first reported on Wednesday 18 November 2026:
   antibiotic resistance in Europe, Bangladesh garment protests,
   Australia's West Bank sanctions, the EU's €45bn Ukraine loan,
   Voyager 1 reaching one light-day out, Russia's 141-drone night,
-  Amnesty on El Obeid, and Africa's questions at COP31.
+  Amnesty on El Obeid, and Korea's Suneung exam crackdown.
 - **A numbered world map** (pins 1–15 match the heroes and cards).
 - **"Also on Wednesday"**: items 16–40, one line each — quakes in Papua
-  New Guinea and Romania, gold's slide, Tencent's earnings, the Cambridge
-  Word of the Year ("human"), and more.
+  New Guinea and Peru, Anthropic's $83 IPO pricing, the Fed minutes,
+  the Cambridge Word of the Year ("human"), and more.
 - **A footer** stating the date rule and listing every source outlet.
   Contested claims are attributed to their source in the text.
 
